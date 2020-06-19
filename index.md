@@ -2,5 +2,5 @@
 
 Everything that isn't carbon is electronic!
 
-![Expensive bike]({{ site.url }}/images/docbike.jpg)
+![Expensive bike]({{ site.baseurl }}/images/docbike.jpg)
 
